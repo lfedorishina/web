@@ -1,4 +1,4 @@
-# Web app testing
+# Web shop testing
 
 In the terms of the test course, we tested https://demoshopping.ru and I prepared different types of testing documentation:
 
