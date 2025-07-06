@@ -9,3 +9,4 @@ In the terms of the test course, we tested https://demoshopping.ru and I prepare
 - [Test run for Web App PDR](https://drive.google.com/file/d/1sA2QpfodJJZUg1MoNzcZebqXmCv5bO-d/view?usp=sharing)
 - [Testing with Fiddler Everywhere pt1](https://drive.google.com/file/d/1HtgA1G3phoU49HHvB9Tfp2lvAwC2BtBh/view?usp=sharing) - change count of items added to the user's cart
 - [Testing with Fiddler Everywhere pt2](https://drive.google.com/file/d/1a0TVmhP8GEH-MLzz-2OWaBu97S8gEJnL/view?usp=sharing) - Error 403 for the website only
+- [Testing with Fiddler Everywhere pt3](https://drive.google.com/file/d/1R6NvhtWvWVRngutghw4IXiVEtE4lDmA6/view?usp=sharing) - change the link from PROD to QA
