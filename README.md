@@ -1,6 +1,6 @@
 # Web shop testing
 
-In the terms of the test course, we tested https://demoshopping.ru and I prepared different types of testing documentation:
+In the terms of the test course, https://demoshopping.ru was tested and different types of testing documentation was prepared:
 
 - [Test plan for Online Store](https://docs.google.com/spreadsheets/d/1W0eTT2EIytFzbxte3Hnk658d0jCCK4sIYjlyoBs70wM/edit?gid=0#gid=0) - describing what and how to test 
 - [Checklist for Online store](https://docs.google.com/spreadsheets/d/1BixJ8F3j8PfGr_RSLe8gZikXAPDQkbQDUepR246rNpg/edit?gid=59170846#gid=59170846) - for web shop features
